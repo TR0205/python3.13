@@ -1,3 +1,12 @@
+x = 11
+y = 30
+
+if x > 10 and y > 20:
+    print('true')
+else:
+    print('false')
+
+
 y = [1, 2, 3]
 
 # if 4 not in y:
