@@ -7,6 +7,8 @@ cat input.txt | python factorization.py
 
 """
 
+# TODO: 間違っているので直す
+
 n = int(input())
 
 r = []
